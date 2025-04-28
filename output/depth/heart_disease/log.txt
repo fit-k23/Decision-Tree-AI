@@ -1,36 +1,36 @@
 Max Depth: None
 Actual Depth: 11
-Accuracy: 0.7667
+Accuracy: 0.7167
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_none.svg
 Max Depth: 2
 Actual Depth: 2
-Accuracy: 0.7167
+Accuracy: 0.7000
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_2.svg
 Max Depth: 3
 Actual Depth: 3
-Accuracy: 0.8167
+Accuracy: 0.7667
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_3.svg
 Max Depth: 4
 Actual Depth: 4
-Accuracy: 0.7667
+Accuracy: 0.7167
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_4.svg
 Max Depth: 5
 Actual Depth: 5
-Accuracy: 0.7667
+Accuracy: 0.7500
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_5.svg
 Max Depth: 6
 Actual Depth: 6
-Accuracy: 0.7333
+Accuracy: 0.7167
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_6.svg
 Max Depth: 7
 Actual Depth: 7
-Accuracy: 0.7667
+Accuracy: 0.7167
 Saved decision tree visualization: output/depth/heart_disease/id3_heart_disease_80_20_depth_7.svg
   max_depth  Accuracy
-0      None  0.766667
-1         2  0.716667
-2         3  0.816667
-3         4  0.766667
-4         5  0.766667
-5         6  0.733333
-6         7  0.766667
+0      None  0.716667
+1         2  0.700000
+2         3  0.766667
+3         4  0.716667
+4         5  0.750000
+5         6  0.716667
+6         7  0.716667
