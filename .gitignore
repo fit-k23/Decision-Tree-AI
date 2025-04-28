@@ -1,3 +1,4 @@
+.ipynb_checkpoints
 .idea
 [T]emp
 *.exe
@@ -18,4 +19,3 @@ _deps
 *.tmp
 _pycache_
 .DS_Store
-.ipynb_checkpoints
