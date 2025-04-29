@@ -1,0 +1,2 @@
+This goes to console and file automatically.
+This goes to console and file sa.
