@@ -9,90 +9,90 @@
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 459)">
 <title>Tree</title>
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-459 1143.5,-459 1143.5,4 -4,4"/>
-<text text-anchor="middle" x="569.75" y="-435" font-family="Times New Roman,serif" font-size="20.00">Max Depth: 3 &#45; Accuracy: 0.7833</text>
+<text text-anchor="middle" x="569.75" y="-435" font-family="Times New Roman,serif" font-size="20.00">Max Depth: 3 &#45; Accuracy: 0.8000</text>
 <!-- 0 -->
 <g id="node1" class="node">
 <title>0</title>
-<path fill="#fbece2" stroke="black" d="M657,-425C657,-425 534,-425 534,-425 528,-425 522,-419 522,-413 522,-413 522,-354 522,-354 522,-348 528,-342 534,-342 534,-342 657,-342 657,-342 663,-342 669,-348 669,-354 669,-354 669,-413 669,-413 669,-419 663,-425 657,-425"/>
-<text text-anchor="start" x="567.5" y="-409.8" font-family="Helvetica,sans-Serif" font-size="14.00">thal ≤ 4.5</text>
-<text text-anchor="start" x="548" y="-394.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.995</text>
-<text text-anchor="start" x="550.5" y="-379.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 237</text>
-<text text-anchor="start" x="530" y="-364.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [128.0, 109.0]</text>
-<text text-anchor="start" x="535" y="-349.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
+<path fill="#fbece2" stroke="black" d="M652,-425C652,-425 529,-425 529,-425 523,-425 517,-419 517,-413 517,-413 517,-354 517,-354 517,-348 523,-342 529,-342 529,-342 652,-342 652,-342 658,-342 664,-348 664,-354 664,-354 664,-413 664,-413 664,-419 658,-425 652,-425"/>
+<text text-anchor="start" x="566" y="-409.8" font-family="Helvetica,sans-Serif" font-size="14.00">cp ≤ 3.5</text>
+<text text-anchor="start" x="543" y="-394.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.995</text>
+<text text-anchor="start" x="545.5" y="-379.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 237</text>
+<text text-anchor="start" x="525" y="-364.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [128.0, 109.0]</text>
+<text text-anchor="start" x="530" y="-349.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 1 -->
 <g id="node2" class="node">
 <title>1</title>
-<path fill="#eca470" stroke="black" d="M507,-306C507,-306 394,-306 394,-306 388,-306 382,-300 382,-294 382,-294 382,-235 382,-235 382,-229 388,-223 394,-223 394,-223 507,-223 507,-223 513,-223 519,-229 519,-235 519,-235 519,-294 519,-294 519,-300 513,-306 507,-306"/>
-<text text-anchor="start" x="418.5" y="-290.8" font-family="Helvetica,sans-Serif" font-size="14.00">age ≤ 54.5</text>
-<text text-anchor="start" x="403" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.753</text>
-<text text-anchor="start" x="405.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 125</text>
-<text text-anchor="start" x="403.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [98, 27]</text>
-<text text-anchor="start" x="390" y="-230.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
+<path fill="#eca36f" stroke="black" d="M502,-306C502,-306 389,-306 389,-306 383,-306 377,-300 377,-294 377,-294 377,-235 377,-235 377,-229 383,-223 389,-223 389,-223 502,-223 502,-223 508,-223 514,-229 514,-235 514,-235 514,-294 514,-294 514,-300 508,-306 502,-306"/>
+<text text-anchor="start" x="413.5" y="-290.8" font-family="Helvetica,sans-Serif" font-size="14.00">age ≤ 56.5</text>
+<text text-anchor="start" x="401.5" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.75</text>
+<text text-anchor="start" x="400.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 126</text>
+<text text-anchor="start" x="398.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [99, 27]</text>
+<text text-anchor="start" x="385" y="-230.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 0&#45;&gt;1 -->
 <g id="edge1" class="edge">
 <title>0&#45;&gt;1</title>
-<path fill="none" stroke="black" d="M545.19,-341.91C533.38,-332.38 520.71,-322.15 508.59,-312.37"/>
-<polygon fill="black" stroke="black" points="510.7,-309.58 500.72,-306.02 506.3,-315.02 510.7,-309.58"/>
-<text text-anchor="middle" x="503.37" y="-327.18" font-family="Helvetica,sans-Serif" font-size="14.00">True</text>
+<path fill="none" stroke="black" d="M540.19,-341.91C528.38,-332.38 515.71,-322.15 503.59,-312.37"/>
+<polygon fill="black" stroke="black" points="505.7,-309.58 495.72,-306.02 501.3,-315.02 505.7,-309.58"/>
+<text text-anchor="middle" x="498.37" y="-327.18" font-family="Helvetica,sans-Serif" font-size="14.00">True</text>
 </g>
 <!-- 8 -->
 <g id="node9" class="node">
 <title>8</title>
-<path fill="#81c1ef" stroke="black" d="M786.5,-306C786.5,-306 694.5,-306 694.5,-306 688.5,-306 682.5,-300 682.5,-294 682.5,-294 682.5,-235 682.5,-235 682.5,-229 688.5,-223 694.5,-223 694.5,-223 786.5,-223 786.5,-223 792.5,-223 798.5,-229 798.5,-235 798.5,-235 798.5,-294 798.5,-294 798.5,-300 792.5,-306 786.5,-306"/>
-<text text-anchor="start" x="716" y="-290.8" font-family="Helvetica,sans-Serif" font-size="14.00">ca ≤ 0.5</text>
-<text text-anchor="start" x="693" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.838</text>
-<text text-anchor="start" x="696" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 112</text>
-<text text-anchor="start" x="693.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [30, 82]</text>
-<text text-anchor="start" x="690.5" y="-230.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
+<path fill="#7fc0ee" stroke="black" d="M781.5,-306C781.5,-306 689.5,-306 689.5,-306 683.5,-306 677.5,-300 677.5,-294 677.5,-294 677.5,-235 677.5,-235 677.5,-229 683.5,-223 689.5,-223 689.5,-223 781.5,-223 781.5,-223 787.5,-223 793.5,-229 793.5,-235 793.5,-235 793.5,-294 793.5,-294 793.5,-300 787.5,-306 781.5,-306"/>
+<text text-anchor="start" x="707.5" y="-290.8" font-family="Helvetica,sans-Serif" font-size="14.00">thal ≤ 4.5</text>
+<text text-anchor="start" x="688" y="-275.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.829</text>
+<text text-anchor="start" x="691.5" y="-260.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 111</text>
+<text text-anchor="start" x="688.5" y="-245.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [29, 82]</text>
+<text text-anchor="start" x="685.5" y="-230.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
 </g>
 <!-- 0&#45;&gt;8 -->
 <g id="edge8" class="edge">
 <title>0&#45;&gt;8</title>
-<path fill="none" stroke="black" d="M645.81,-341.91C657.62,-332.38 670.29,-322.15 682.41,-312.37"/>
-<polygon fill="black" stroke="black" points="684.7,-315.02 690.28,-306.02 680.3,-309.58 684.7,-315.02"/>
-<text text-anchor="middle" x="687.63" y="-327.18" font-family="Helvetica,sans-Serif" font-size="14.00">False</text>
+<path fill="none" stroke="black" d="M640.81,-341.91C652.62,-332.38 665.29,-322.15 677.41,-312.37"/>
+<polygon fill="black" stroke="black" points="679.7,-315.02 685.28,-306.02 675.3,-309.58 679.7,-315.02"/>
+<text text-anchor="middle" x="682.63" y="-327.18" font-family="Helvetica,sans-Serif" font-size="14.00">False</text>
 </g>
 <!-- 2 -->
 <g id="node3" class="node">
 <title>2</title>
-<path fill="#e78946" stroke="black" d="M280,-187C280,-187 167,-187 167,-187 161,-187 155,-181 155,-175 155,-175 155,-116 155,-116 155,-110 161,-104 167,-104 167,-104 280,-104 280,-104 286,-104 292,-110 292,-116 292,-116 292,-175 292,-175 292,-181 286,-187 280,-187"/>
-<text text-anchor="start" x="199" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">ca ≤ 0.5</text>
-<text text-anchor="start" x="176" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.326</text>
-<text text-anchor="start" x="182.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 67</text>
-<text text-anchor="start" x="180.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [63, 4]</text>
+<path fill="#e88d4c" stroke="black" d="M280,-187C280,-187 167,-187 167,-187 161,-187 155,-181 155,-175 155,-175 155,-116 155,-116 155,-110 161,-104 167,-104 167,-104 280,-104 280,-104 286,-104 292,-110 292,-116 292,-116 292,-175 292,-175 292,-181 286,-187 280,-187"/>
+<text text-anchor="start" x="177" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">thalach ≤ 152.5</text>
+<text text-anchor="start" x="176" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.432</text>
+<text text-anchor="start" x="182.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 79</text>
+<text text-anchor="start" x="180.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [72, 7]</text>
 <text text-anchor="start" x="163" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 1&#45;&gt;2 -->
 <g id="edge2" class="edge">
 <title>1&#45;&gt;2</title>
-<path fill="none" stroke="black" d="M381.78,-228.08C356.45,-215.02 327.57,-200.14 301.48,-186.69"/>
-<polygon fill="black" stroke="black" points="302.87,-183.47 292.38,-182 299.67,-189.7 302.87,-183.47"/>
+<path fill="none" stroke="black" d="M376.78,-227.28C352.85,-214.67 325.84,-200.43 301.23,-187.46"/>
+<polygon fill="black" stroke="black" points="302.76,-184.31 292.28,-182.75 299.49,-190.51 302.76,-184.31"/>
 </g>
 <!-- 5 -->
 <g id="node6" class="node">
 <title>5</title>
-<path fill="#f6d4bb" stroke="black" d="M507,-187C507,-187 394,-187 394,-187 388,-187 382,-181 382,-175 382,-175 382,-116 382,-116 382,-110 388,-104 394,-104 394,-104 507,-104 507,-104 513,-104 519,-110 519,-116 519,-116 519,-175 519,-175 519,-181 513,-187 507,-187"/>
-<text text-anchor="start" x="426" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">cp ≤ 3.5</text>
-<text text-anchor="start" x="403" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.969</text>
-<text text-anchor="start" x="409.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 58</text>
-<text text-anchor="start" x="403.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [35, 23]</text>
-<text text-anchor="start" x="390" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
+<path fill="#f8decc" stroke="black" d="M502,-187C502,-187 389,-187 389,-187 383,-187 377,-181 377,-175 377,-175 377,-116 377,-116 377,-110 383,-104 389,-104 389,-104 502,-104 502,-104 508,-104 514,-110 514,-116 514,-116 514,-175 514,-175 514,-181 508,-187 502,-187"/>
+<text text-anchor="start" x="418" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">sex ≤ 0.5</text>
+<text text-anchor="start" x="398" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.984</text>
+<text text-anchor="start" x="404.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 47</text>
+<text text-anchor="start" x="387.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [27.0, 20.0]</text>
+<text text-anchor="start" x="385" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 1&#45;&gt;5 -->
 <g id="edge5" class="edge">
 <title>1&#45;&gt;5</title>
-<path fill="none" stroke="black" d="M450.5,-222.91C450.5,-214.65 450.5,-205.86 450.5,-197.3"/>
-<polygon fill="black" stroke="black" points="454,-197.02 450.5,-187.02 447,-197.02 454,-197.02"/>
+<path fill="none" stroke="black" d="M445.5,-222.91C445.5,-214.65 445.5,-205.86 445.5,-197.3"/>
+<polygon fill="black" stroke="black" points="449,-197.02 445.5,-187.02 442,-197.02 449,-197.02"/>
 </g>
 <!-- 3 -->
 <g id="node4" class="node">
 <title>3</title>
-<path fill="#e58139" stroke="black" d="M125,-68C125,-68 12,-68 12,-68 6,-68 0,-62 0,-56 0,-56 0,-12 0,-12 0,-6 6,0 12,0 12,0 125,0 125,0 131,0 137,-6 137,-12 137,-12 137,-56 137,-56 137,-62 131,-68 125,-68"/>
-<text text-anchor="start" x="28.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.0</text>
-<text text-anchor="start" x="27.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 55</text>
-<text text-anchor="start" x="25.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [55, 0]</text>
+<path fill="#efb185" stroke="black" d="M125,-68C125,-68 12,-68 12,-68 6,-68 0,-62 0,-56 0,-56 0,-12 0,-12 0,-6 6,0 12,0 12,0 125,0 125,0 131,0 137,-6 137,-12 137,-12 137,-56 137,-56 137,-62 131,-68 125,-68"/>
+<text text-anchor="start" x="21" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.852</text>
+<text text-anchor="start" x="27.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 18</text>
+<text text-anchor="start" x="25.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [13, 5]</text>
 <text text-anchor="start" x="8" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 2&#45;&gt;3 -->
@@ -104,10 +104,10 @@
 <!-- 4 -->
 <g id="node5" class="node">
 <title>4</title>
-<path fill="#f2c09c" stroke="black" d="M280,-68C280,-68 167,-68 167,-68 161,-68 155,-62 155,-56 155,-56 155,-12 155,-12 155,-6 161,0 167,0 167,0 280,0 280,0 286,0 292,-6 292,-12 292,-12 292,-56 292,-56 292,-62 286,-68 280,-68"/>
-<text text-anchor="start" x="176" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.918</text>
-<text text-anchor="start" x="182.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 12</text>
-<text text-anchor="start" x="184" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [8, 4]</text>
+<path fill="#e68540" stroke="black" d="M280,-68C280,-68 167,-68 167,-68 161,-68 155,-62 155,-56 155,-56 155,-12 155,-12 155,-6 161,0 167,0 167,0 280,0 280,0 286,0 292,-6 292,-12 292,-12 292,-56 292,-56 292,-62 286,-68 280,-68"/>
+<text text-anchor="start" x="176" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.208</text>
+<text text-anchor="start" x="182.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 61</text>
+<text text-anchor="start" x="180.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [59, 2]</text>
 <text text-anchor="start" x="163" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 2&#45;&gt;4 -->
@@ -119,102 +119,102 @@
 <!-- 6 -->
 <g id="node7" class="node">
 <title>6</title>
-<path fill="#eda876" stroke="black" d="M435,-68C435,-68 322,-68 322,-68 316,-68 310,-62 310,-56 310,-56 310,-12 310,-12 310,-6 316,0 322,0 322,0 435,0 435,0 441,0 447,-6 447,-12 447,-12 447,-56 447,-56 447,-62 441,-68 435,-68"/>
-<text text-anchor="start" x="331" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.787</text>
-<text text-anchor="start" x="337.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 34</text>
-<text text-anchor="start" x="335.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [26, 8]</text>
+<path fill="#ea9a61" stroke="black" d="M435,-68C435,-68 322,-68 322,-68 316,-68 310,-62 310,-56 310,-56 310,-12 310,-12 310,-6 316,0 322,0 322,0 435,0 435,0 441,0 447,-6 447,-12 447,-12 447,-56 447,-56 447,-62 441,-68 435,-68"/>
+<text text-anchor="start" x="334.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.65</text>
+<text text-anchor="start" x="337.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 18</text>
+<text text-anchor="start" x="335.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [15, 3]</text>
 <text text-anchor="start" x="318" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 5&#45;&gt;6 -->
 <g id="edge6" class="edge">
 <title>5&#45;&gt;6</title>
-<path fill="none" stroke="black" d="M423.69,-103.73C417.93,-94.97 411.84,-85.7 406.05,-76.91"/>
-<polygon fill="black" stroke="black" points="408.81,-74.73 400.4,-68.3 402.97,-78.58 408.81,-74.73"/>
+<path fill="none" stroke="black" d="M420.55,-103.73C415.19,-94.97 409.52,-85.7 404.14,-76.91"/>
+<polygon fill="black" stroke="black" points="407.08,-75 398.88,-68.3 401.11,-78.66 407.08,-75"/>
 </g>
 <!-- 7 -->
 <g id="node8" class="node">
 <title>7</title>
-<path fill="#b0d8f5" stroke="black" d="M569.5,-68C569.5,-68 477.5,-68 477.5,-68 471.5,-68 465.5,-62 465.5,-56 465.5,-56 465.5,-12 465.5,-12 465.5,-6 471.5,0 477.5,0 477.5,0 569.5,0 569.5,0 575.5,0 581.5,-6 581.5,-12 581.5,-12 581.5,-56 581.5,-56 581.5,-62 575.5,-68 569.5,-68"/>
-<text text-anchor="start" x="476" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.954</text>
-<text text-anchor="start" x="482.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 24</text>
-<text text-anchor="start" x="480.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [9, 15]</text>
+<path fill="#c5e2f7" stroke="black" d="M569.5,-68C569.5,-68 477.5,-68 477.5,-68 471.5,-68 465.5,-62 465.5,-56 465.5,-56 465.5,-12 465.5,-12 465.5,-6 471.5,0 477.5,0 477.5,0 569.5,0 569.5,0 575.5,0 581.5,-6 581.5,-12 581.5,-12 581.5,-56 581.5,-56 581.5,-62 575.5,-68 569.5,-68"/>
+<text text-anchor="start" x="476" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.978</text>
+<text text-anchor="start" x="482.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 29</text>
+<text text-anchor="start" x="476.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [12, 17]</text>
 <text text-anchor="start" x="473.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
 </g>
 <!-- 5&#45;&gt;7 -->
 <g id="edge7" class="edge">
 <title>5&#45;&gt;7</title>
-<path fill="none" stroke="black" d="M477.68,-103.73C483.58,-94.88 489.83,-85.51 495.75,-76.63"/>
-<polygon fill="black" stroke="black" points="498.67,-78.56 501.3,-68.3 492.84,-74.68 498.67,-78.56"/>
+<path fill="none" stroke="black" d="M474.54,-103.73C480.85,-94.88 487.52,-85.51 493.85,-76.63"/>
+<polygon fill="black" stroke="black" points="496.83,-78.48 499.78,-68.3 491.13,-74.41 496.83,-78.48"/>
 </g>
 <!-- 9 -->
 <g id="node10" class="node">
 <title>9</title>
-<path fill="#f0f7fd" stroke="black" d="M786.5,-187C786.5,-187 694.5,-187 694.5,-187 688.5,-187 682.5,-181 682.5,-175 682.5,-175 682.5,-116 682.5,-116 682.5,-110 688.5,-104 694.5,-104 694.5,-104 786.5,-104 786.5,-104 792.5,-104 798.5,-110 798.5,-116 798.5,-116 798.5,-175 798.5,-175 798.5,-181 792.5,-187 786.5,-187"/>
-<text text-anchor="start" x="705" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">exang ≤ 0.5</text>
-<text text-anchor="start" x="693" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.999</text>
-<text text-anchor="start" x="699.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 50</text>
-<text text-anchor="start" x="693.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [24, 26]</text>
-<text text-anchor="start" x="690.5" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
+<path fill="#fbeee4" stroke="black" d="M792,-187C792,-187 679,-187 679,-187 673,-187 667,-181 667,-175 667,-175 667,-116 667,-116 667,-110 673,-104 679,-104 679,-104 792,-104 792,-104 798,-104 804,-110 804,-116 804,-116 804,-175 804,-175 804,-181 798,-187 792,-187"/>
+<text text-anchor="start" x="711" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">ca ≤ 0.5</text>
+<text text-anchor="start" x="688" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.996</text>
+<text text-anchor="start" x="694.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 41</text>
+<text text-anchor="start" x="688.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [22, 19]</text>
+<text text-anchor="start" x="675" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 8&#45;&gt;9 -->
 <g id="edge9" class="edge">
 <title>8&#45;&gt;9</title>
-<path fill="none" stroke="black" d="M740.5,-222.91C740.5,-214.65 740.5,-205.86 740.5,-197.3"/>
-<polygon fill="black" stroke="black" points="744,-197.02 740.5,-187.02 737,-197.02 744,-197.02"/>
+<path fill="none" stroke="black" d="M735.5,-222.91C735.5,-214.65 735.5,-205.86 735.5,-197.3"/>
+<polygon fill="black" stroke="black" points="739,-197.02 735.5,-187.02 732,-197.02 739,-197.02"/>
 </g>
 <!-- 12 -->
 <g id="node13" class="node">
 <title>12</title>
-<path fill="#4ea8e8" stroke="black" d="M993.5,-187C993.5,-187 901.5,-187 901.5,-187 895.5,-187 889.5,-181 889.5,-175 889.5,-175 889.5,-116 889.5,-116 889.5,-110 895.5,-104 901.5,-104 901.5,-104 993.5,-104 993.5,-104 999.5,-104 1005.5,-110 1005.5,-116 1005.5,-116 1005.5,-175 1005.5,-175 1005.5,-181 999.5,-187 993.5,-187"/>
-<text text-anchor="start" x="908" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">restecg ≤ 0.5</text>
-<text text-anchor="start" x="900" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.459</text>
-<text text-anchor="start" x="906.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 62</text>
-<text text-anchor="start" x="904.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [6, 56]</text>
+<path fill="#4fa8e8" stroke="black" d="M993.5,-187C993.5,-187 901.5,-187 901.5,-187 895.5,-187 889.5,-181 889.5,-175 889.5,-175 889.5,-116 889.5,-116 889.5,-110 895.5,-104 901.5,-104 901.5,-104 993.5,-104 993.5,-104 999.5,-104 1005.5,-110 1005.5,-116 1005.5,-116 1005.5,-175 1005.5,-175 1005.5,-181 999.5,-187 993.5,-187"/>
+<text text-anchor="start" x="903" y="-171.8" font-family="Helvetica,sans-Serif" font-size="14.00">oldpeak ≤ 0.55</text>
+<text text-anchor="start" x="900" y="-156.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.469</text>
+<text text-anchor="start" x="906.5" y="-141.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 70</text>
+<text text-anchor="start" x="904.5" y="-126.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [7, 63]</text>
 <text text-anchor="start" x="897.5" y="-111.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
 </g>
 <!-- 8&#45;&gt;12 -->
 <g id="edge12" class="edge">
 <title>8&#45;&gt;12</title>
-<path fill="none" stroke="black" d="M798.71,-230.6C824.17,-216.21 854.19,-199.24 880.57,-184.33"/>
-<polygon fill="black" stroke="black" points="882.38,-187.33 889.37,-179.36 878.94,-181.23 882.38,-187.33"/>
+<path fill="none" stroke="black" d="M793.71,-231.37C820.59,-216.54 852.65,-198.85 880.53,-183.46"/>
+<polygon fill="black" stroke="black" points="882.36,-186.45 889.42,-178.55 878.97,-180.32 882.36,-186.45"/>
 </g>
 <!-- 10 -->
 <g id="node11" class="node">
 <title>10</title>
-<path fill="#f1ba92" stroke="black" d="M725,-68C725,-68 612,-68 612,-68 606,-68 600,-62 600,-56 600,-56 600,-12 600,-12 600,-6 606,0 612,0 612,0 725,0 725,0 731,0 737,-6 737,-12 737,-12 737,-56 737,-56 737,-62 731,-68 725,-68"/>
-<text text-anchor="start" x="621" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.894</text>
-<text text-anchor="start" x="627.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 29</text>
-<text text-anchor="start" x="625.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [20, 9]</text>
+<path fill="#eca26d" stroke="black" d="M725,-68C725,-68 612,-68 612,-68 606,-68 600,-62 600,-56 600,-56 600,-12 600,-12 600,-6 606,0 612,0 612,0 725,0 725,0 731,0 737,-6 737,-12 737,-12 737,-56 737,-56 737,-62 731,-68 725,-68"/>
+<text text-anchor="start" x="621" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.738</text>
+<text text-anchor="start" x="627.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 24</text>
+<text text-anchor="start" x="625.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [19, 5]</text>
 <text text-anchor="start" x="608" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = No Decease</text>
 </g>
 <!-- 9&#45;&gt;10 -->
 <g id="edge10" class="edge">
 <title>9&#45;&gt;10</title>
-<path fill="none" stroke="black" d="M713.69,-103.73C707.93,-94.97 701.84,-85.7 696.05,-76.91"/>
-<polygon fill="black" stroke="black" points="698.81,-74.73 690.4,-68.3 692.97,-78.58 698.81,-74.73"/>
+<path fill="none" stroke="black" d="M710.55,-103.73C705.19,-94.97 699.52,-85.7 694.14,-76.91"/>
+<polygon fill="black" stroke="black" points="697.08,-75 688.88,-68.3 691.11,-78.66 697.08,-75"/>
 </g>
 <!-- 11 -->
 <g id="node12" class="node">
 <title>11</title>
-<path fill="#68b4eb" stroke="black" d="M859.5,-68C859.5,-68 767.5,-68 767.5,-68 761.5,-68 755.5,-62 755.5,-56 755.5,-56 755.5,-12 755.5,-12 755.5,-6 761.5,0 767.5,0 767.5,0 859.5,0 859.5,0 865.5,0 871.5,-6 871.5,-12 871.5,-12 871.5,-56 871.5,-56 871.5,-62 865.5,-68 859.5,-68"/>
-<text text-anchor="start" x="766" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.702</text>
-<text text-anchor="start" x="772.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 21</text>
-<text text-anchor="start" x="770.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [4, 17]</text>
+<path fill="#63b2eb" stroke="black" d="M859.5,-68C859.5,-68 767.5,-68 767.5,-68 761.5,-68 755.5,-62 755.5,-56 755.5,-56 755.5,-12 755.5,-12 755.5,-6 761.5,0 767.5,0 767.5,0 859.5,0 859.5,0 865.5,0 871.5,-6 871.5,-12 871.5,-12 871.5,-56 871.5,-56 871.5,-62 865.5,-68 859.5,-68"/>
+<text text-anchor="start" x="766" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.672</text>
+<text text-anchor="start" x="772.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 17</text>
+<text text-anchor="start" x="770.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [3, 14]</text>
 <text text-anchor="start" x="763.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
 </g>
 <!-- 9&#45;&gt;11 -->
 <g id="edge11" class="edge">
 <title>9&#45;&gt;11</title>
-<path fill="none" stroke="black" d="M767.68,-103.73C773.58,-94.88 779.83,-85.51 785.75,-76.63"/>
-<polygon fill="black" stroke="black" points="788.67,-78.56 791.3,-68.3 782.84,-74.68 788.67,-78.56"/>
+<path fill="none" stroke="black" d="M764.54,-103.73C770.85,-94.88 777.52,-85.51 783.85,-76.63"/>
+<polygon fill="black" stroke="black" points="786.83,-78.48 789.78,-68.3 781.13,-74.41 786.83,-78.48"/>
 </g>
 <!-- 13 -->
 <g id="node14" class="node">
 <title>13</title>
-<path fill="#6db7ec" stroke="black" d="M993.5,-68C993.5,-68 901.5,-68 901.5,-68 895.5,-68 889.5,-62 889.5,-56 889.5,-56 889.5,-12 889.5,-12 889.5,-6 895.5,0 901.5,0 901.5,0 993.5,0 993.5,0 999.5,0 1005.5,-6 1005.5,-12 1005.5,-12 1005.5,-56 1005.5,-56 1005.5,-62 999.5,-68 993.5,-68"/>
-<text text-anchor="start" x="900" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.736</text>
-<text text-anchor="start" x="906.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 29</text>
-<text text-anchor="start" x="904.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [6, 23]</text>
+<path fill="#b0d8f5" stroke="black" d="M993.5,-68C993.5,-68 901.5,-68 901.5,-68 895.5,-68 889.5,-62 889.5,-56 889.5,-56 889.5,-12 889.5,-12 889.5,-6 895.5,0 901.5,0 901.5,0 993.5,0 993.5,0 999.5,0 1005.5,-6 1005.5,-12 1005.5,-12 1005.5,-56 1005.5,-56 1005.5,-62 999.5,-68 993.5,-68"/>
+<text text-anchor="start" x="900" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.954</text>
+<text text-anchor="start" x="906.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 16</text>
+<text text-anchor="start" x="904.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [6, 10]</text>
 <text text-anchor="start" x="897.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
 </g>
 <!-- 12&#45;&gt;13 -->
@@ -226,10 +226,10 @@
 <!-- 14 -->
 <g id="node15" class="node">
 <title>14</title>
-<path fill="#399de5" stroke="black" d="M1127.5,-68C1127.5,-68 1035.5,-68 1035.5,-68 1029.5,-68 1023.5,-62 1023.5,-56 1023.5,-56 1023.5,-12 1023.5,-12 1023.5,-6 1029.5,0 1035.5,0 1035.5,0 1127.5,0 1127.5,0 1133.5,0 1139.5,-6 1139.5,-12 1139.5,-12 1139.5,-56 1139.5,-56 1139.5,-62 1133.5,-68 1127.5,-68"/>
-<text text-anchor="start" x="1041.5" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.0</text>
-<text text-anchor="start" x="1040.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 33</text>
-<text text-anchor="start" x="1038.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [0, 33]</text>
+<path fill="#3d9fe5" stroke="black" d="M1127.5,-68C1127.5,-68 1035.5,-68 1035.5,-68 1029.5,-68 1023.5,-62 1023.5,-56 1023.5,-56 1023.5,-12 1023.5,-12 1023.5,-6 1029.5,0 1035.5,0 1035.5,0 1127.5,0 1127.5,0 1133.5,0 1139.5,-6 1139.5,-12 1139.5,-12 1139.5,-56 1139.5,-56 1139.5,-62 1133.5,-68 1127.5,-68"/>
+<text text-anchor="start" x="1034" y="-52.8" font-family="Helvetica,sans-Serif" font-size="14.00">entropy = 0.133</text>
+<text text-anchor="start" x="1040.5" y="-37.8" font-family="Helvetica,sans-Serif" font-size="14.00">samples = 54</text>
+<text text-anchor="start" x="1038.5" y="-22.8" font-family="Helvetica,sans-Serif" font-size="14.00">value = [1, 53]</text>
 <text text-anchor="start" x="1031.5" y="-7.8" font-family="Helvetica,sans-Serif" font-size="14.00">class = Decease</text>
 </g>
 <!-- 12&#45;&gt;14 -->

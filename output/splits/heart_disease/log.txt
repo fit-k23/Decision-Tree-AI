@@ -1,44 +1,40 @@
 === Heart Disease Train/Test 40/60 ===
-Saved decision tree visualization: output/splits/heart_disease/id3_heart_disease_40_60.svg
               precision    recall  f1-score   support
 
-  No Decease       0.79      0.68      0.73        96
-     Decease       0.68      0.80      0.73        83
+  No Decease       0.86      0.84      0.85        96
+     Decease       0.82      0.84      0.83        83
 
-    accuracy                           0.73       179
-   macro avg       0.74      0.74      0.73       179
-weighted avg       0.74      0.73      0.73       179
+    accuracy                           0.84       179
+   macro avg       0.84      0.84      0.84       179
+weighted avg       0.84      0.84      0.84       179
 
 === Heart Disease Train/Test 60/40 ===
-Saved decision tree visualization: output/splits/heart_disease/id3_heart_disease_60_40.svg
               precision    recall  f1-score   support
 
-  No Decease       0.74      0.92      0.82        64
-     Decease       0.87      0.62      0.72        55
+  No Decease       0.91      0.94      0.92        64
+     Decease       0.92      0.89      0.91        55
 
-    accuracy                           0.78       119
-   macro avg       0.80      0.77      0.77       119
-weighted avg       0.80      0.78      0.78       119
+    accuracy                           0.92       119
+   macro avg       0.92      0.91      0.92       119
+weighted avg       0.92      0.92      0.92       119
 
 === Heart Disease Train/Test 80/20 ===
-Saved decision tree visualization: output/splits/heart_disease/id3_heart_disease_80_20.svg
               precision    recall  f1-score   support
 
-  No Decease       0.72      0.88      0.79        32
-     Decease       0.81      0.61      0.69        28
+  No Decease       0.97      0.97      0.97        32
+     Decease       0.96      0.96      0.96        28
 
-    accuracy                           0.75        60
-   macro avg       0.76      0.74      0.74        60
-weighted avg       0.76      0.75      0.74        60
+    accuracy                           0.97        60
+   macro avg       0.97      0.97      0.97        60
+weighted avg       0.97      0.97      0.97        60
 
 === Heart Disease Train/Test 90/10 ===
-Saved decision tree visualization: output/splits/heart_disease/id3_heart_disease_90_10.svg
               precision    recall  f1-score   support
 
-  No Decease       1.00      0.75      0.86        16
-     Decease       0.78      1.00      0.88        14
+  No Decease       1.00      1.00      1.00        16
+     Decease       1.00      1.00      1.00        14
 
-    accuracy                           0.87        30
-   macro avg       0.89      0.88      0.87        30
-weighted avg       0.90      0.87      0.87        30
+    accuracy                           1.00        30
+   macro avg       1.00      1.00      1.00        30
+weighted avg       1.00      1.00      1.00        30
 
